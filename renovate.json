@@ -1,8 +1,7 @@
 {
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:js-app",
-    ":label(renovate)",
-    ":timezone(America/New_York)",
+    "config:base",
     ":rebaseStalePrs",
     ":automergeDigest",
     ":automergePatch",
@@ -13,11 +12,12 @@
     ":automergeTesters",
     ":automergeTypes",
     ":gitSignOff",
-    ":npm",
-    ":docker",
-    ":enableVulnerabilityAlertsWithLabel(vulnerability)",
     ":assignAndReview(SheepReaper)",
-    ":dependencyDashboard",
     ":semanticCommits"
-  ]
+  ],
+  "vulnerabilityAlerts": {
+    "labels": ["security"],
+    "automerge": true,
+    "assignees": ["@SheepReaper"]
+  }
 }
