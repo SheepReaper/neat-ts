@@ -1583,7 +1583,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../../cache/others/berry/cache/@types-prettier-npm-3.0.0-6c770110eb-10c0.zip/node_modules/@types/prettier/",\
         "packageDependencies": [\
           ["@types/prettier", "npm:3.0.0"],\
-          ["prettier", "npm:3.3.3"]\
+          ["prettier", "npm:3.4.1"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -1613,7 +1613,7 @@ const RAW_RUNTIME_STATE =
           ["graphemer", "npm:1.4.0"],\
           ["ignore", "npm:5.3.2"],\
           ["natural-compare", "npm:1.4.0"],\
-          ["ts-api-utils", "virtual:6d51f5d106bb7e66041c16010008771bb0ebd816458715c40360466142a699f4c7eca45c0af73ef1fe6bcc8e64d3d6b8338d62e8e8b6d7c09edcb14f08d3abe0#npm:1.4.1"],\
+          ["ts-api-utils", "virtual:6d51f5d106bb7e66041c16010008771bb0ebd816458715c40360466142a699f4c7eca45c0af73ef1fe6bcc8e64d3d6b8338d62e8e8b6d7c09edcb14f08d3abe0#npm:1.4.3"],\
           ["typescript", "patch:typescript@npm%3A5.7.2#optional!builtin<compat/typescript>::version=5.7.2&hash=5786d5"]\
         ],\
         "packagePeers": [\
@@ -1687,7 +1687,7 @@ const RAW_RUNTIME_STATE =
           ["@typescript-eslint/utils", "virtual:6d51f5d106bb7e66041c16010008771bb0ebd816458715c40360466142a699f4c7eca45c0af73ef1fe6bcc8e64d3d6b8338d62e8e8b6d7c09edcb14f08d3abe0#npm:7.18.0"],\
           ["debug", "virtual:1ff4b5f90832ba0a9c93ba1223af226e44ba70c1126a3740d93562b97bc36544e896a5e95908196f7458713e6a6089a34bfc67362fc6df7fa093bd06c878be47#npm:4.3.7"],\
           ["eslint", "npm:8.57.1"],\
-          ["ts-api-utils", "virtual:6d51f5d106bb7e66041c16010008771bb0ebd816458715c40360466142a699f4c7eca45c0af73ef1fe6bcc8e64d3d6b8338d62e8e8b6d7c09edcb14f08d3abe0#npm:1.4.1"],\
+          ["ts-api-utils", "virtual:6d51f5d106bb7e66041c16010008771bb0ebd816458715c40360466142a699f4c7eca45c0af73ef1fe6bcc8e64d3d6b8338d62e8e8b6d7c09edcb14f08d3abe0#npm:1.4.3"],\
           ["typescript", "patch:typescript@npm%3A5.7.2#optional!builtin<compat/typescript>::version=5.7.2&hash=5786d5"]\
         ],\
         "packagePeers": [\
@@ -1728,7 +1728,7 @@ const RAW_RUNTIME_STATE =
           ["is-glob", "npm:4.0.3"],\
           ["minimatch", "npm:9.0.5"],\
           ["semver", "npm:7.6.3"],\
-          ["ts-api-utils", "virtual:6d51f5d106bb7e66041c16010008771bb0ebd816458715c40360466142a699f4c7eca45c0af73ef1fe6bcc8e64d3d6b8338d62e8e8b6d7c09edcb14f08d3abe0#npm:1.4.1"],\
+          ["ts-api-utils", "virtual:6d51f5d106bb7e66041c16010008771bb0ebd816458715c40360466142a699f4c7eca45c0af73ef1fe6bcc8e64d3d6b8338d62e8e8b6d7c09edcb14f08d3abe0#npm:1.4.3"],\
           ["typescript", "patch:typescript@npm%3A5.7.2#optional!builtin<compat/typescript>::version=5.7.2&hash=5786d5"]\
         ],\
         "packagePeers": [\
@@ -1749,7 +1749,7 @@ const RAW_RUNTIME_STATE =
           ["is-glob", "npm:4.0.3"],\
           ["minimatch", "npm:9.0.5"],\
           ["semver", "npm:7.6.3"],\
-          ["ts-api-utils", "virtual:55627a2d4653c1eff33db1bf1ad27d1a35821caf71aa932c3a20b6d3a928e21036c52d664ff3316ffc2b677776810bc83f5984e709b94d90d0789e04ad28e852#npm:1.4.1"],\
+          ["ts-api-utils", "virtual:55627a2d4653c1eff33db1bf1ad27d1a35821caf71aa932c3a20b6d3a928e21036c52d664ff3316ffc2b677776810bc83f5984e709b94d90d0789e04ad28e852#npm:1.4.3"],\
           ["typescript", null]\
         ],\
         "packagePeers": [\
@@ -1984,7 +1984,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["browserslist", "npm:4.24.2"],\
           ["caniuse-lite", "npm:1.0.30001684"],\
-          ["electron-to-chromium", "npm:1.5.65"],\
+          ["electron-to-chromium", "npm:1.5.67"],\
           ["node-releases", "npm:2.0.18"],\
           ["update-browserslist-db", "virtual:0bc5f13e3b070c660ccf3396ff30b6fc44ede2343c6543d593ce4624807ab1bafdbcd764ac20b4d55e6854e63e2568f1c6d09371eb639766b95e2d401b5b05cb#npm:1.1.1"]\
         ],\
@@ -2320,10 +2320,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["electron-to-chromium", [\
-      ["npm:1.5.65", {\
-        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.5.65-4c5aeebb06-10c0.zip/node_modules/electron-to-chromium/",\
+      ["npm:1.5.67", {\
+        "packageLocation": "../../../../cache/others/berry/cache/electron-to-chromium-npm-1.5.67-1838619444-10c0.zip/node_modules/electron-to-chromium/",\
         "packageDependencies": [\
-          ["electron-to-chromium", "npm:1.5.65"]\
+          ["electron-to-chromium", "npm:1.5.67"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -3915,13 +3915,6 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["prettier", [\
-      ["npm:3.3.3", {\
-        "packageLocation": "./.yarn/unplugged/prettier-npm-3.3.3-e811f023f3/node_modules/prettier/",\
-        "packageDependencies": [\
-          ["prettier", "npm:3.3.3"]\
-        ],\
-        "linkType": "HARD"\
-      }],\
       ["npm:3.4.1", {\
         "packageLocation": "./.yarn/unplugged/prettier-npm-3.4.1-ebb52d2db5/node_modules/prettier/",\
         "packageDependencies": [\
@@ -4278,17 +4271,17 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["ts-api-utils", [\
-      ["npm:1.4.1", {\
-        "packageLocation": "../../../../cache/others/berry/cache/ts-api-utils-npm-1.4.1-6de88830ba-10c0.zip/node_modules/ts-api-utils/",\
+      ["npm:1.4.3", {\
+        "packageLocation": "../../../../cache/others/berry/cache/ts-api-utils-npm-1.4.3-ee6b12ae73-10c0.zip/node_modules/ts-api-utils/",\
         "packageDependencies": [\
-          ["ts-api-utils", "npm:1.4.1"]\
+          ["ts-api-utils", "npm:1.4.3"]\
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:55627a2d4653c1eff33db1bf1ad27d1a35821caf71aa932c3a20b6d3a928e21036c52d664ff3316ffc2b677776810bc83f5984e709b94d90d0789e04ad28e852#npm:1.4.1", {\
-        "packageLocation": "./.yarn/__virtual__/ts-api-utils-virtual-baa15ee3c2/5/cache/others/berry/cache/ts-api-utils-npm-1.4.1-6de88830ba-10c0.zip/node_modules/ts-api-utils/",\
+      ["virtual:55627a2d4653c1eff33db1bf1ad27d1a35821caf71aa932c3a20b6d3a928e21036c52d664ff3316ffc2b677776810bc83f5984e709b94d90d0789e04ad28e852#npm:1.4.3", {\
+        "packageLocation": "./.yarn/__virtual__/ts-api-utils-virtual-6667c4f5a2/5/cache/others/berry/cache/ts-api-utils-npm-1.4.3-ee6b12ae73-10c0.zip/node_modules/ts-api-utils/",\
         "packageDependencies": [\
-          ["ts-api-utils", "virtual:55627a2d4653c1eff33db1bf1ad27d1a35821caf71aa932c3a20b6d3a928e21036c52d664ff3316ffc2b677776810bc83f5984e709b94d90d0789e04ad28e852#npm:1.4.1"],\
+          ["ts-api-utils", "virtual:55627a2d4653c1eff33db1bf1ad27d1a35821caf71aa932c3a20b6d3a928e21036c52d664ff3316ffc2b677776810bc83f5984e709b94d90d0789e04ad28e852#npm:1.4.3"],\
           ["@types/typescript", null],\
           ["typescript", null]\
         ],\
@@ -4298,10 +4291,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["virtual:6d51f5d106bb7e66041c16010008771bb0ebd816458715c40360466142a699f4c7eca45c0af73ef1fe6bcc8e64d3d6b8338d62e8e8b6d7c09edcb14f08d3abe0#npm:1.4.1", {\
-        "packageLocation": "./.yarn/__virtual__/ts-api-utils-virtual-847a373a9e/5/cache/others/berry/cache/ts-api-utils-npm-1.4.1-6de88830ba-10c0.zip/node_modules/ts-api-utils/",\
+      ["virtual:6d51f5d106bb7e66041c16010008771bb0ebd816458715c40360466142a699f4c7eca45c0af73ef1fe6bcc8e64d3d6b8338d62e8e8b6d7c09edcb14f08d3abe0#npm:1.4.3", {\
+        "packageLocation": "./.yarn/__virtual__/ts-api-utils-virtual-b181e59ab3/5/cache/others/berry/cache/ts-api-utils-npm-1.4.3-ee6b12ae73-10c0.zip/node_modules/ts-api-utils/",\
         "packageDependencies": [\
-          ["ts-api-utils", "virtual:6d51f5d106bb7e66041c16010008771bb0ebd816458715c40360466142a699f4c7eca45c0af73ef1fe6bcc8e64d3d6b8338d62e8e8b6d7c09edcb14f08d3abe0#npm:1.4.1"],\
+          ["ts-api-utils", "virtual:6d51f5d106bb7e66041c16010008771bb0ebd816458715c40360466142a699f4c7eca45c0af73ef1fe6bcc8e64d3d6b8338d62e8e8b6d7c09edcb14f08d3abe0#npm:1.4.3"],\
           ["@types/typescript", null],\
           ["typescript", "patch:typescript@npm%3A5.7.2#optional!builtin<compat/typescript>::version=5.7.2&hash=5786d5"]\
         ],\
